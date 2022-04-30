@@ -6,6 +6,6 @@ CS 4920 explores basic security issues in computer communication, classical cryp
 
 I completed this course at UCCS in May 2022. A brief description of the outcome of each project is given below. A more detailed description can be found at the top of each program file.
 
-DES - DES implementation
-
 KhanHW1P5 - Caesar cipher implementation
+
+DES - DES implementation
